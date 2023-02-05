@@ -11,7 +11,7 @@ I have hands-on experience in several programming languages, including
     I have worked with it in a few courses and developed my skills through various coursework and projects.
 
   - Java: 
-    I have acquired hands-on experience through an Algorithms course where I used Java to complete various projects.
+    I have acquired experience through an Algorithms course where I used Java to complete various projects.
    
   - Javascript:
     I first learned Javascript in a web development course at Reykjavik University, but have since expanded my skills through practical courses such as app development.
